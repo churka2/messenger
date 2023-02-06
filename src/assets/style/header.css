@@ -1,0 +1,30 @@
+.phone__head {
+    background: #323232;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 31px;
+    padding-bottom: 31px;
+    border-radius: 7px 7px 0 0
+}
+
+.head__txt {
+    color: white;
+    margin-left:10px ;
+}
+
+.head__name {
+    font-family: 'RM', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 14px;
+}
+
+.head__status {
+    font-family: 'RL', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+
+}

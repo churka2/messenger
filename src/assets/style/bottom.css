@@ -1,0 +1,41 @@
+.phone__bottom{
+    background: #323232;
+    width: 400px;
+    height: 56px;
+    border-radius: 0 0 6px 6px;
+    position: relative;
+}
+
+.bottom__input{
+    background: #323232;
+    width: 400px;
+    height: 56px;
+    border-radius: 0 0 6px 6px;
+    border: none;
+    outline: none;
+    color: white;
+    padding-left: 20px;
+    padding-right: 60px;
+    font-family: 'RR',sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+.bottom__input::placeholder{
+    font-family: 'RR',sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    color: rgb(175, 174, 174);
+}
+
+.camera__btn{
+    border: none;
+    outline: none;
+    background: transparent;
+    position: absolute;
+    right: 20px;
+    top: 16px;
+    cursor: pointer
+}
