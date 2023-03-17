@@ -39,3 +39,13 @@
     top: 16px;
     cursor: pointer
 }
+
+.send__btn{
+    border: none;
+    outline: none;
+    background: transparent;
+    position: absolute;
+    right: 20px;
+    top: 16px;
+    cursor: pointer
+}

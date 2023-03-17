@@ -1,17 +1,18 @@
 .phone__head {
     background: #323232;
+    height: 112px;
     width: 400px;
+    border-radius: 11px 11px 0 0;
+    padding: 20px 31px;
     display: flex;
+    justify-content: flex-start;
     align-items: center;
-    padding-left: 20px;
-    padding-top: 31px;
-    padding-bottom: 31px;
-    border-radius: 7px 7px 0 0
 }
+
 
 .head__txt {
     color: white;
-    margin-left:10px ;
+    margin-left: 10px;
 }
 
 .head__name {
@@ -26,5 +27,4 @@
     font-size: 14px;
     font-weight: 300;
     line-height: 18px;
-
 }
